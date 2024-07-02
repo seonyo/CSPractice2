@@ -10,6 +10,9 @@ namespace CSPractice2
     {
         static void Main(string[] args)
         {
+            // #6 셰도잉
+            int number = 20;
+            Console.WriteLine(number);  
         }
     }
 }
